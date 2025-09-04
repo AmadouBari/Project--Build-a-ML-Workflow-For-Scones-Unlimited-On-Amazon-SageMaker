@@ -1,0 +1,1 @@
+{"errorMessage": "THRESHOLD_CONFIDENCE_NOT_MET", "errorType": "Exception", "stackTrace": ["  File \"/var/task/lambda_filter.py\", line 20, in lambda_handler\n    raise Exception(\"THRESHOLD_CONFIDENCE_NOT_MET\")\n"]}

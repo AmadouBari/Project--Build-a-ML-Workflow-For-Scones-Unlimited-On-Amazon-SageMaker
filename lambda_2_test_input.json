@@ -1,0 +1,8 @@
+{
+  "body": {
+    "image_data": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAOX... [TRUNCATED]",
+    "s3_bucket": "sagemaker-us-east-1-135808922609",
+    "s3_key": "test/bicycle_s_001789.png",
+    "inferences": []
+  }
+}
